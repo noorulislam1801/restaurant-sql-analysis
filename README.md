@@ -22,6 +22,7 @@ Analyze order patterns and high-value transactions
 Support menu planning, pricing strategies, and operational decisions
 
 🔍 Key Analysis
+
 1️⃣ Menu-Level
 
 Count total menu items
